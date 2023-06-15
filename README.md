@@ -134,4 +134,3 @@ Il sera alors possible pour l’utilisateur d’utiliser sans compte. Dans ce ca
 L’éditeur de l’application se réserve le droit de pouvoir modifier la présente Politique à tout moment afin d’assurer aux utilisateurs de l’application sa conformité avec le droit en vigueur.  
 L’utilisateur est invité à prendre connaissance de cette Politique à chaque fois qu’il utilise nos services, sans qu’il soit nécessaire de l’en prévenir formellement.  
 La présente politique, a été mise à jour le 9 juin 2023.
-![image](https://github.com/mthaam/TracotooApp/assets/79216305/0caa40be-769a-4226-91af-ab47e81c1640)
