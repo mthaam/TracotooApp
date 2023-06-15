@@ -123,7 +123,7 @@ Par courrier à l’adresse :  76 AVENUE FOCH 94100 ST MAUR DES FOSSÉS ;
 Par téléphone, au 06.50.08.14.36 ;  
 Par mail : tracotooapp@gmail.com
 
-Pour exercer vos droits, veuillez adresser un email à l’éditeur de l’application, Sébastien Brunet à jsbrunet@protonmail.com
+Pour exercer vos droits, veuillez adresser un email à l’éditeur de l’application, Sébastien Brunet à tracotooapp@gmail.com
 Afin que le responsable du traitement des données puisse faire droit à sa demande, l’utilisateur peut être tenu de lui communiquer certaines informations telles que : ses noms et prénoms, son adresse e-mail ainsi que son nom d’utilisateur.
 Consultez le site cnil.fr pour plus d’informations sur vos droits.
 Si l’utilisateur ne souhaite plus consentir à l’utilisation et / ou au stockage distant de ses données personnelles, celui peut supprimer son compte. Cette action entrainera la suppression des données, dans les délais mentionnés au point 8 des présentes conditions.
