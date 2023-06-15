@@ -1,4 +1,5 @@
-Politique de confidentialité  
+#Politique de confidentialité  
+
 Version en vigueur depuis le 9 juin 2023.
 
 Tracotoo accorde une grande importance à votre vie privée et s’engage à la protéger. Notre politique de confidentialité s’applique à notre collecte de données, leur utilisation, ainsi qu’à nos pratiques de publication.
@@ -16,7 +17,8 @@ Cette politique de confidentialité porte sur :
 -	La personne responsable du traitement des données à caractère personnel.
 -	Conditions de modification de la politique de confidentialité.
 
-1.	Informations importantes et description de l’Éditeur de l’application Tracotoo
+
+1.Informations importantes et description de l’Éditeur de l’application Tracotoo
 
 Tracotoo fournit un service (le Service) conformément aux Conditions générales d’utilisation et à la présente politique de confidentialité. Cette politique de confidentialité est susceptible d’être mise à jour ponctuellement par l’éditeur de l’application.
 
@@ -24,7 +26,8 @@ L’éditeur de l’application est le contrôleur et le responsable des donnée
 
 L’application Tracotoo est éditée Par Sébastien Brunet, développeur d’application.
 
-2.	Principes relatifs à la collecte et au traitement des données personnelles
+
+2.Principes relatifs à la collecte et au traitement des données personnelles
 Conformément à l’article 5 du Règlement européen 2016/679, les données à caractère personnel sont :   
 -	Traitées de manière licite, loyale et transparente au regard de la personne concernée ; 
 -	Collectées pour des finalités déterminées (cf. point 3, 4 & 5 des présentes), explicites et légitimes, et ne pas être traitées ultérieurement d'une manière incompatible avec ces finalités ; 
@@ -41,10 +44,7 @@ Le traitement n'est licite que si, et dans la mesure où, au moins une des condi
 -	Le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée qui exigent une protection des données à caractère personnel, notamment lorsque la personne concernée est un enfant.
 
 
-
-
-
-3.	 Quels utilisateurs sont concernés par la collecte de données ?
+3.Quels utilisateurs sont concernés par la collecte de données ?
 
 Des données sont collectées pour les utilisateurs finaux qui choisissent de créer un compte pour sauvegarder les résultats des calculs d’empreinte carbone en dehors de leur terminal. Ceci leur permettra de retrouver leurs données sur un autre terminal que celui sur lequel les données ont été renseignées, par exemple.
 
@@ -54,7 +54,8 @@ Les utilisateurs finaux qui font usage de Tracotoo avec un compte, sont égaleme
 
 Pour plus de de détails sur le type de données collectées, se référer à la section 3, « Les données personnelles que l’application collecte ».
 
-4.	Les données personnelles que l’application collecte
+
+4.Les données personnelles que l’application collecte
 
 Pour les utilisateurs utilisant l’application avec un compte :
 -	Adresse E-mail
@@ -77,12 +78,14 @@ Les données collectées pour procéder aux calculs d’empreinte carbone sont a
 
 Pour déterminer l’adresse de départ et / ou d’arrivée, l’application peut demander et utiliser l’accès à la géolocalisation de l’utilisateur. Cette information n’est en aucun cas utilisée pour servir d’autres finalités.
 
-5.	Comment sont collectées les données ?
+
+5.Comment sont collectées les données ?
 
 L’application ne collecte aucune donnée de façon automatisée à des fins d’analyse.
 Les données collectées précitées au point 3, « Les données personnelles que l’application collecte », le sont de façon volontaire lorsque l’utilisateur les renseigne (par exemple dans un champ de texte / ou en validant un choix via un bouton), et fait le choix de calculer une empreinte carbone, d’enregistrer un véhicule, ou de sauvegarder une empreinte carbone.
 
-6.	Qui sont les destinataires des données ? 
+
+6.Qui sont les destinataires des données ? 
 
 L’application utilise une fonction d’authentification et d’inscription pour les utilisateurs disposant d’un compte. Pour ces même utilisateurs, l’application peut éventuellement enregistrer les données de calculs d’empreinte carbone sur un serveur distant.
 Ces données sont stockées uniquement sur des serveurs sécurisés, dans des installations de l’espace économique européen.
@@ -90,17 +93,20 @@ Ces données sont stockées uniquement sur des serveurs sécurisés, dans des in
 Les services d’authentification et de sauvegarde distante sont susceptibles de faire appel à des fournisseurs de service, délivrant un service avec un haut niveau de protection.
 Les services d’authentification / inscription et de sauvegarde utilisés ont obtenu les certifications ISO 27001, 27017, 27018 et SOC 1, 2, et 3.
 
-7.	La politique de l’application en matière de cookies et traceurs
+
+7.La politique de l’application en matière de cookies et traceurs
 
 L’application n’utilise pas de cookies et traceurs.
 
-8.	Durée de conservation des données
+
+8.Durée de conservation des données
 
 Pour les utilisateurs disposant d’un compte, la fonction d’authentification et / ou inscription conserve les données d’adresse IP enregistrées pendant quelques semaines. Les données d’identification comme l’adresse e-mail, le mot de passe, le nom d’utilisateur, sont conservées tant que l’utilisateur garde son compte actif, c’est-à-dire que ce dernier n’engage pas la démarche volontaire de supprimer son compte. Les chaines d’agent utilisateur sont conservées pendant une durée maximum de 180 jours.
 
 Les données des résultats de calculs d’empreinte carbone et les véhicules favoris, si l’utilisateur a choisi de les enregistrer dans son compte, sont conservées tant que ce dernier garde son compte actif. Si l’utilisateur choisit de supprimer son compte, la suppression des données de calculs et des véhicules est immédiate.
 
-9.	Les droits dont disposent les utilisateurs concernant ces données
+
+9.Les droits dont disposent les utilisateurs concernant ces données
 
 Le délégué à la protection des données de l’entreprise ou du responsable est : 
 Sébastien Brunet
@@ -115,7 +121,8 @@ Tout utilisateur concerné par le traitement de ses données personnelles peut s
 -	Droit de saisir l’autorité de contrôle compétente (article 77 du RGPD).
 Si l’utilisateur ne souhaite plus consentir à l’utilisation et / ou au stockage distant de ses données personnelles, se référer au point 10 ci-dessous.
 
-10.	Responsable du traitement des données et délégué à la protection des données
+
+10.Responsable du traitement des données et délégué à la protection des données
 
 Les données à caractère personnelles sont collectées par Sébastien Brunet, SIRET 821450061.  
 Le responsable du traitement des données à caractère personnel peut être contacté de la manière suivante :  
@@ -129,7 +136,8 @@ Consultez le site cnil.fr pour plus d’informations sur vos droits.
 Si l’utilisateur ne souhaite plus consentir à l’utilisation et / ou au stockage distant de ses données personnelles, celui peut supprimer son compte. Cette action entrainera la suppression des données, dans les délais mentionnés au point 8 des présentes conditions.
 Il sera alors possible pour l’utilisateur d’utiliser sans compte. Dans ce cas, les seules données transmises seront d’intérêt légitime, pour procéder aux calculs d’empreinte carbone.
 
-11.	Conditions de modification de la politique de confidentialité
+
+11.Conditions de modification de la politique de confidentialité
 
 L’éditeur de l’application se réserve le droit de pouvoir modifier la présente Politique à tout moment afin d’assurer aux utilisateurs de l’application sa conformité avec le droit en vigueur.  
 L’utilisateur est invité à prendre connaissance de cette Politique à chaque fois qu’il utilise nos services, sans qu’il soit nécessaire de l’en prévenir formellement.  
